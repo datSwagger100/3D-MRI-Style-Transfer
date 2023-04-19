@@ -5,7 +5,7 @@
 This repository provides a collection of a project that focuses on (un)paired image style translation between CT and MRI images of the spine. The generated images are used for subsequent segmentation tasks.
 
 The project further investigates the effectiveness of different state-of-the-art deep learning methods such as
- - Pix2Pix / CycleGAN / CUT(contrastive unpaired translation)
+ - Pix2Pix / SIT(Unet with DenseNet Block) / CycleGAN / CUT(contrastive unpaired translation)
  - Loss Function: L1 Loss / GAN Loss / Contextual Loss (Obsolete)
  - 2D / 3D input data
  - Deterministic / Bayesian
