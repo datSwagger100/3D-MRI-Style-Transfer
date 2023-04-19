@@ -2,7 +2,7 @@
 
 # Granite Framework: Efficient 3D Image Translation Methods Framework for the Spine
 
-This repository is part of a project that focuses on (un)paired image style translation between CT and MRI images of the spine. The generated images are used for subsequent segmentation tasks.
+This repository provides a collection of a project that focuses on (un)paired image style translation between CT and MRI images of the spine. The generated images are used for subsequent segmentation tasks.
 
 The project further investigates the effectiveness of different state-of-the-art deep learning methods such as
  - Pix2Pix / CycleGAN / CUT(contrastive unpaired translation)
